@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.cst8284.lab04Test","c":"YourPurchasesTest2","l":"testPurchase()"},{"p":"com.cst8284.lab04Test","c":"YourPurchasesTest2","l":"YourPurchasesTest2()","url":"%3Cinit%3E()"}]
